@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning python and a little bit more 
+- 🌱 I’m currently learning python and a little bit more
+- 📚  I manage repositories where I document my learning and projects, such as Python_Database.
+- 📝 I regularly update my learning logs in repositories like Kotlin-learning-log and Python-learning-log, where I share my progress and thoughts.
 <!--
 **NataliaKowal/NataliaKowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
