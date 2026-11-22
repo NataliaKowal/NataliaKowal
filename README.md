@@ -1,6 +1,13 @@
 ### Hi there 👋 I'm Natalia
 
-I'm interested in **Python**, **biomedical signal processing** and **web development**. I'm currently working on my master's thesis on the analysis of intracranial pressure signals.
+**Project Manager** with an MSc Eng. in Biomedical Engineering (Medical Informatics) from Wrocław University of Science and Technology. I've been working on IT projects since 2022, connecting business needs with technical teams in Poland and Germany. I like building things myself, too: from internal tools and databases to data analysis in Python.
+
+#### 💼 What I do
+
+- 🚀 Coordinate IT system rollouts end to end: requirements, process design, configuration, UAT, training and go-live
+- 🛠️ Build internal tools: a CMS with a knowledge base (Python, PostgreSQL, Docker) and an internal AI chatbot used by employees
+- 📊 Turn data into decisions with reports and KPI dashboards (SLA, NPS) in Power BI, Excel and SQL
+- 🧬 Analyse biomedical signals in Python, the topic of my master's thesis
 
 #### 🔬 Signal processing and data analysis
 
@@ -19,9 +26,18 @@ I'm interested in **Python**, **biomedical signal processing** and **web develop
 - **[Kotlin-learning-log](https://github.com/NataliaKowal/Kotlin-learning-log)**: object-oriented programming and unit tests in Kotlin
 - **[HTML-basics](https://github.com/NataliaKowal/HTML-basics)**: practice pages in HTML and CSS
 
-#### 🛠️ Tools and technologies
+#### 🛠️ Skills
 
-- **Languages:** Python, Kotlin, JavaScript, HTML, CSS, SQL
-- **Python libraries:** NumPy, SciPy, pandas, Matplotlib, Plotly, Biopython, PyTorch
-- **Web:** Vue.js, Flask
-- **Other:** SQLite, MongoDB, Docker, Git, Jupyter, Google Colab
+- **Project management:** schedule, budget and risk tracking, supplier and change management, Agile (Scrum, Kanban)
+- **Programming:** Python (NumPy, SciPy, pandas, Matplotlib, PyTorch), SQL, JavaScript (Vue.js), Kotlin, HTML, CSS
+- **Back end and data:** Flask, PostgreSQL, SQLite, MongoDB, Docker
+- **Analytics:** Power BI, Excel, KPI dashboards
+- **Tools:** Jira, Confluence, Salesforce CRM, SharePoint, Git, Jupyter
+
+#### 🌍 Languages
+
+Polish (native) · English (C1)
+
+#### 📫 Contact
+
+nataliakowal328@gmail.com
