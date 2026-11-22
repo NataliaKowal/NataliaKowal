@@ -10,4 +10,5 @@ Project Manager with a background in Biomedical Engineering. I enjoy building th
 - 👥 **[Employees-Management-System](https://github.com/NataliaKowal/Employees-Management-System)**: employee management web app (Vue.js, Flask, SQLite)
 - 💧 **[Hydration-Keeper](https://github.com/NataliaKowal/Hydration-Keeper)**: water intake tracker (Vue.js)
 
+<!--
 📚 Learning logs: [Python](https://github.com/NataliaKowal/Python-learning-log) · [Kotlin](https://github.com/NataliaKowal/Kotlin-learning-log) · [HTML](https://github.com/NataliaKowal/HTML-basics)
